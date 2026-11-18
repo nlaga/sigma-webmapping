@@ -6,7 +6,7 @@ autonomie. Les supports sont sur le site du cours :
 
 ## Poser une question
 
-Dans l'onglet **Discussions**, catégorie **Q&A** :
+Dans l'onglet **Discussions**, catégorie **Questions** :
 
 1. Cherchez d'abord si la question a déjà été posée : la réponse vous attend peut-être.
 2. Un titre qui dit le problème (« Les cercles ne s'affichent pas à l'étape 10 », pas « Aide »).
@@ -27,8 +27,9 @@ aux suivants. Vous pouvez aussi répondre aux questions des autres.
 
 ## Rendre le TP
 
-Dans la discussion **Rendus du TP « Le portrait des communes du Parc »**, un commentaire avec vos
-deux adresses : la carte publiée sur GitHub Pages et le dépôt GitHub.
+Dans l'onglet **Discussions**, catégorie **Annonces**, la discussion **Rendus du TP « Le portrait des
+communes du Parc »** : un commentaire avec vos deux adresses, la carte publiée sur GitHub Pages et le
+dépôt GitHub.
 
 ## Ce qui est public
 
